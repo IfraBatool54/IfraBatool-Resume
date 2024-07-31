@@ -24,7 +24,7 @@
 - Dedicated to skill development and academic excellence in my field.
 - Passionately driven to innovate and solve problems in computer science.
 
- # Skills
+# Skills
 - Computing languages including C++, C, C#, Python, Java, Kotlin, HTML, CSS, SQL and Matlab
 - Social media management
 - Figma, Adobe Photoshop and Illustrator
