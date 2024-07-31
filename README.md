@@ -20,7 +20,7 @@
 - Figma, Adobe Photoshop and Illustrator
 - Collaboration and cooperation
 
-# Eduction
+# Education
 ### Beaconhouse School System
 - Excelled in diverse subjects during O Levels, showcasing academic excellence.
 - Sustained high performance throughout A Levels, consistently achieving outstanding results.
