@@ -12,3 +12,20 @@
  and visibility
 
 ### Internship at Inter Service Public Relation
+- Completed an internship in mass communication, gaining valuable experience in media production and communication strategies.
+
+# Skills
+- Computing languages including C++, C, C#, Python, Java, Kotlin, HTML, CSS, SQL and Matlab
+- Social media management
+- Figma, Adobe Photoshop and Illustrator
+- Collaboration and cooperation
+
+# Eduction
+### Beaconhouse School System
+- Excelled in diverse subjects during O Levels, showcasing academic excellence.
+- Sustained high performance throughout A Levels, consistently achieving outstanding results.
+  
+### National University of Computer and Emerging Sciences - FAST
+- Currently in my third year of pursuing a Bachelor's in Computer Science.
+- Dedicated to skill development and academic excellence in my field.
+- Passionately driven to innovate and solve problems in computer science.
